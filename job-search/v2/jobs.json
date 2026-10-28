@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "careerpath-job-search-v2",
-  "generatedAt": "2026-10-28T20:31:48.715Z",
+  "generatedAt": "2026-10-28T20:35:40.435Z",
   "total": 562,
   "jobs": [
     {
@@ -56,7 +56,7 @@
       "title": "Employment and Skills Trainer",
       "employer": "Sovereign & Bale",
       "location": "Hertford",
-      "salary": "£28,000 - £31,000 per week",
+      "salary": "£28,000 - £31,000 per annum",
       "salaryMin": 28000,
       "salaryMax": 31000,
       "careerArea": "Skills, Training & Careers",
