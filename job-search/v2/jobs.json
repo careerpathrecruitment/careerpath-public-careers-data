@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "id": "careerpath-job-search-v2",
-  "generatedAt": "2026-11-25T23:04:12.821Z",
-  "total": 653,
+  "generatedAt": "2026-11-26T18:38:19.850Z",
+  "total": 652,
   "jobs": [
     {
       "id": "ISMIXusN9",
@@ -11403,31 +11403,6 @@
       "careerPathVacancy": false,
       "lastChecked": "2026-10-03T11:52:58.566Z",
       "lastSynced": "2026-10-03T11:52:58.566Z"
-    },
-    {
-      "id": "cs0NmzZKJ",
-      "slug": "early-years-on-programme-assessor-provider-direct-realise-0190cb0f-99ff-4bc2-9d31-bf6d4c875ba7",
-      "title": "Early Years On-Programme Assessor",
-      "employer": "Realise",
-      "location": "Home Worker",
-      "salary": "Salary not specified",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryPeriod": null,
-      "careerArea": "Skills, Training & Careers",
-      "programme": "Skills & Training",
-      "employmentType": "Not specified",
-      "workingPattern": "Flexible",
-      "summary": "Early Years On-Programme Assessor opportunity with Realise, supporting learners through skills, training, apprenticeships or career development. Based in Home Worker.",
-      "description": "Early Years On-Programme Assessor opportunity with Realise, supporting learners through skills, training, apprenticeships or career development. Based in Home Worker. This CareerPath listing is a concise factual summary of an official employer vacancy with Realise. Please follow the application link to view the original advert, full requirements and application details.",
-      "datePosted": null,
-      "datePostedBasis": "unverified",
-      "closingDate": "2026-11-25T23:59:59.999Z",
-      "applyUrl": "https://realise.peoplehr.net/Pages/JobBoard/Opening.aspx?v=0190cb0f-99ff-4bc2-9d31-bf6d4c875ba7",
-      "source": "Provider Direct+: Realise",
-      "careerPathVacancy": false,
-      "lastChecked": "2026-11-25T22:06:49.766Z",
-      "lastSynced": "2026-11-25T22:06:49.766Z"
     },
     {
       "id": "JVJxGWNGq",
